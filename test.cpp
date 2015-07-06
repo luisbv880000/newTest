@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
 	cout <<"This is a test/n";
-	
+	//this is a comment.	
 	return 0;
+	//so is this.
 }
